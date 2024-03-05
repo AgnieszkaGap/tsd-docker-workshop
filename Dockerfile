@@ -15,7 +15,7 @@ RUN yarn install
 COPY . .
 
 # Build the project
-RUN yarn build
+# RUN yarn build
 
 # Expose the port the app will listen on
 EXPOSE 8080
