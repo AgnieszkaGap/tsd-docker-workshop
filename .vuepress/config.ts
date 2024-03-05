@@ -9,7 +9,7 @@ import { navbar, sidebar } from './navigation'
 export default {
   lang: 'en-EN',
   title: 'Docker - workshops',
-  description: 'Technologies of Software Development',
+  description: 'Technologies of Software Development zmiany zmiany zmiany',
 
   theme: defaultTheme({
     navbar: navbar,
